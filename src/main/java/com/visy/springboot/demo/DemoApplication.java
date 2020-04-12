@@ -1,4 +1,4 @@
-package com.visy.springboot.demo.demo;
+package com.visy.springboot.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

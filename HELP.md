@@ -19,3 +19,9 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 
+
+
+RUN  ./mvnw spring-boot:run from the project root folder
+
+if you get a maven wrapper not found error execute the below command and try running ./mvnw spring-boot:run
+ mvn -N io.takari:maven:wrapper
